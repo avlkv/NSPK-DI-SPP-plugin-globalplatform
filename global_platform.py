@@ -25,7 +25,7 @@ class GLOBAL_PLATFORM:
 
 
     """
-    DOWNLOAD_DIR_PATH = r'C:\Users\ivans\Downloads\test_folder'
+    DOWNLOAD_DIR_PATH = r'C:\Users\Artyom\Downloads\globalplatform\downloads'
     SOURCE_NAME = 'global_platform'
     HOST = 'https://globalplatform.org/'
     url_template = f'{HOST}specs-library/'
