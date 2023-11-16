@@ -30,6 +30,7 @@ START GLOBAL_PLATFORM content
 ADD FilterOnlyNewDocumentWithDB
 ADD DownloadDocumentsThroughSeleniumTemp
 ADD ExtractTextFromFile
+ADD CutJunkCharactersFromDocumentText
 ADD UploadDocumentToDB
 
 # Такая конфигурация модулей подходит для "Нативных источников"
