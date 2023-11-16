@@ -27,6 +27,7 @@ START GLOBAL_PLATFORM content
 
 # Такая конфигурация модулей подходит для "файловых противных источников"
 # ADD <название модуля> [<опциональные параметры>, ...]
+ADD CutJunkCharactersFromDocumentText
 ADD FilterOnlyNewDocumentWithDB
 ADD DownloadDocumentsThroughSeleniumTemp
 ADD ExtractTextFromFile
